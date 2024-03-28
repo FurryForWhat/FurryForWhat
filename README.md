@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working as a freelancer
 
-- 🌱 I’m currently Working on DSA
+- 🌱 I’m currently Working in NCC
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Python,c (for DSA)</a>
+- 🌱 I’m currently learning Python,IOT</a>
 
 <!-- - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 
