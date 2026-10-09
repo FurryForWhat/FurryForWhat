@@ -16,7 +16,7 @@ cool stuff 🛠️.
 - 🌱 &nbsp; I'm currently learning **Agentic Coding**
 - ☕ &nbsp; My core stack: **Java · Spring Boot · PostgreSQL**
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kofurry/)
-- 📝 &nbsp; Checkout my [portfolio]([https://eazy-portfolio-eight.vercel.app](https://deployportfo.vercel.app/)
+- 📝 &nbsp; Checkout my [portfolio]([https://eazy-portfolio-eight.vercel.app])
 
 <br clear="right"/>
 
